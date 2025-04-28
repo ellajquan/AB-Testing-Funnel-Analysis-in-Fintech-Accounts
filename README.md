@@ -10,20 +10,7 @@ Designed and executed a 480 k user email A/B framework, running 24 treatment cel
 
 ---
 
-## Quick start
-
-```bash
-# clone & set up
-git clone https://github.com/<you>/email-funding-experiment.git
-cd email-funding-experiment
-conda env create -f env.yml          # or:  pip install -r requirements.txt
-python src/01_prepare_dataset.py     # merges & cleans all CSVs → data/clean/
-python src/02_eda_open_rate.py       # open-rate + friction analysis
-python src/03_link_fund_models.py    # uplift + causal tests
-python src/04_time_series.py         # daily open-rate curves
-python src/05_ab_test.py             # treatment-vs-control stats
-```
-Repository layout
+## Repository layout
 ```bash
 email-funding-experiment/
 ├── data/
