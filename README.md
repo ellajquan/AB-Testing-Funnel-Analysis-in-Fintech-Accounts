@@ -1,4 +1,4 @@
-# Email-A-B-Framework-for-Boosting-Bank-Funding-Activation-in-Fintech-Accounts
+# Email-A/B-Framework-for-Boosting-Bank-Funding-Activation-in-Fintech-Accounts
 
 > **Objective** – Identify the email strategy (template × segment × schedule) that maximises  
 >  • **Open-rate**  
