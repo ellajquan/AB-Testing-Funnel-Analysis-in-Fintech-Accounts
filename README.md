@@ -13,9 +13,6 @@ Designed and executed a 480 k user email A/B framework, running 24 treatment cel
 ## Repository layout
 ```bash
 email-funding-experiment/
-├── data/
-│   ├── raw/                # 5 source CSVs (download here)
-│   └── clean/              # outputs of 01_prepare_dataset.py
 ├── notebooks/              # EDA & visual narrative
 ├── src/
 │   ├── 01_prepare_dataset.py
