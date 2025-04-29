@@ -24,6 +24,5 @@ email-funding-experiment/
 ├── reports/
 │   ├── figures/            # auto-saved plots
 │   └── tables/             # final metric tables
-├── env.yml                 # conda spec (pandas, sklearn, lifelines, causal-lib)
 └── README.md
 ```
