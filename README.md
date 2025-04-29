@@ -9,6 +9,7 @@
 Designed and executed a 480 k user email A/B framework, running 24 treatment cells across 10 templates; applied χ² and CUPED methods to detect a +14 pp lift in open-rate and a +1.9 pp lift in first-funding versus matched controls. Built end-to-end data-manipulation & visualization pipeline in Python (pandas, seaborn, plotly) that aggregated >25 M email-event rows into dynamic dashboards, exposing segment-level engagement drivers in real time. Conducted full-funnel analysis—open → link → fund → trade—with cohort retention curves and drop-off heat-maps, pinpointing the “link-to-fund” step as the highest-ROI leverage point for product follow-ups.
 
 ---
+![funnel](https://github.com/user-attachments/assets/9289cb88-7f58-4e47-8c4b-8ec94da4b07e)
 
 ## Repository layout
 ```bash
